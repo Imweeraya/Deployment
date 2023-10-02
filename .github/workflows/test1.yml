@@ -12,4 +12,4 @@ jobs:
     steps:
     
       - name: Print
-        run: echo "test"
+        run: cat main.html
