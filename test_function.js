@@ -1,4 +1,4 @@
-const { helloworld, one_plus } = require("./Utils");
+const { helloworld, one_plus } = require("./Utils").default;
 
 if(helloworld() === "hello world")
 {
