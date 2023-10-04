@@ -6,4 +6,4 @@ function one_plus(x){
     return 2+x;
 }
 
-module.exports = {helloworld,one_plus};
+module.exports = {helloworld,one_plus}
